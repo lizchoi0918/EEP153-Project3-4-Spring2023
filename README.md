@@ -1,4 +1,4 @@
-# EEP153-Project4-Spring2023-TeamDoudna
+# EEP153-Project4-Spring2023-Team Doudna
 ## Project 4 Team Doudna
 ### Topic
 This project explores the nutritional adequacy of families in Bukidnon, Philippines. By analyzing the demand fod food in this region, we will be designing effective policies to improve nutritional inadequacies. Based on the implications from dietary choices based on prices of food items and household budgets, we can manipulate nutritional outcomes by changing these variables. By utilizing this fact, we can assess the cost of the policy being proposed that impacts prices and budget. 
